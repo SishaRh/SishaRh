@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Sisha
-- 👀 I’m interested in python
+- 👀 I’m interested in Matlab、python。
+- I'm study on soil\plant\environment etl.
 
 
 <!---
